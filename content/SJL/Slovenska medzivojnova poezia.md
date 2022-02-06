@@ -29,19 +29,19 @@ title: "Slovenska medzivojnova peozia"
 
 ---
 
-**Témy:**
-	a) *všeľudské* (vojna, sociálne problémy, hospodárska kríza…)
-	b) *individuálne* (domov, rodina, láska, život, šťastie…)
+- **Témy:**
+	- a) *všeľudské* (vojna, sociálne problémy, hospodárska kríza…)
+	- b) *individuálne* (domov, rodina, láska, život, šťastie…)
 	
-**SMP:**
-	a) *tradičná* (domov, láska, život, šťastie…)
-	b) *moderná* (smútok, depresia, národné a sociálne problémy)
-	c) *avantgardná* (apokalypsa, katastrofické scenáre…)
+- **SMP:**
+	 - a) *tradičná* (domov, láska, život, šťastie…)
+	- b) *moderná* (smútok, depresia, národné a sociálne problémy)
+	- c) *avantgardná* (apokalypsa, katastrofické scenáre…)
 
-SMP závisela od:
-	**1. individuality autora**
-	**2. generačnej príslušnosti**
-	**3. smerovej orientácie autora**
+- SMP závisela od:
+	1. **individuality autora**
+	2. **generačnej príslušnosti**
+	3. **smerovej orientácie autora**
 
 ---
 
@@ -57,7 +57,7 @@ SMP závisela od:
 
 ---
 
-##### STREDNÁ GENERÁCIA
+#### STREDNÁ GENERÁCIA
 - hlásia sa k tradicionalizmu
 - témy bás. zbierok: domov, rodný kraj, príroda, matka a otec, návratové témy
 
