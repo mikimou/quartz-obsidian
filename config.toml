@@ -1,5 +1,5 @@
 baseURL = "https://mikimou.github.io/quartz-obsidian/"
-languageCode = "en-us"
+languageCode = "sk-SK"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
 relativeURLs = true
