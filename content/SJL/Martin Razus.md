@@ -1,4 +1,6 @@
+---
 title: "Martin Razus"
+---
 # Martin Razus
 - zakladateľ 1. politickej strany = SNS
 - zaraďujeme ho k národne orientovaným básnikom

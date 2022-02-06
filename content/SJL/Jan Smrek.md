@@ -1,4 +1,6 @@
+---
 title: "Jan Smrek"
+---
 # Jan Smrek
 - bás. zbierky: 
 	1. Odsúdení k večnej žízni:

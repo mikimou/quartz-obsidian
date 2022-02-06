@@ -1,4 +1,6 @@
+---
 title: "Emil Boleslav Lukac"
+---
 # Emil Boleslav Lukac
 - priniesol dolorizmus
 - čerpá z romantiky, realistickej a symbolistickej literatúry

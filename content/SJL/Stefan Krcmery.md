@@ -1,4 +1,6 @@
+---
 title: "Stefan Krcmery"
+---
 # Stefan Krcmery
 - organizátor literárneho a kultúrneho života
 - bol tajomníkom Matice slovenskej  

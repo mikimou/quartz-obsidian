@@ -1,4 +1,6 @@
+---
 title: "Katolicka Moderna"
+---
 # Katolicka moderna
 - vzniká v 30. rokoch 20. stor.
 - čerpala:

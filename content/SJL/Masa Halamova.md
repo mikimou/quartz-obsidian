@@ -1,4 +1,6 @@
+---
 title: "Masa Halamova"
+---
 # Masa Halamova
 - má individuálny vývoj 
 - označujeme ju ako „osamelú bežkyňu“ neosymbolistku

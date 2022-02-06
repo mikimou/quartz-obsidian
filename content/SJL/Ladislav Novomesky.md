@@ -1,4 +1,6 @@
+---
 title: "Ladislav Novomesky"
+---
 # Ladislav Novomesky
 - vo svojej literárnej činnosti hľadal nové výrazové prostriedky
 - využíva voľný verš, priniesol nový typ poézie na Slovensku

@@ -1,4 +1,6 @@
+---
 title: "Slovenska medzivojnova peozia"
+---
 # Slovenska medzivojnova peozia
 
 - obdobie trvania:
