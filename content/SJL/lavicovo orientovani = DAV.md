@@ -1,3 +1,4 @@
+title: "Lavicovo orientovany = DAW"
 # Lavicovo orientovany = DAW
 - Ľavicovo orientovaní = DAV:
 	- skupina DAV začína vydávať časopis v r. 1924

@@ -1,3 +1,4 @@
+title: "Rudolf Fabry"
 # Rudolf Fabry
 - bás. zbierka:
 	1. Uťaté ruky:

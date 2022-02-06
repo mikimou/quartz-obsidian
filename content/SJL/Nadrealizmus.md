@@ -1,3 +1,4 @@
+title: "Nadrealizmus"
 # Nadrealizmus
 - vznikol v 30. rokoch 20. stor.
 - vychádza z fr. surrealizmus

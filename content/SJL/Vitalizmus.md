@@ -1,3 +1,4 @@
+title: "Vitalizmus"
 # Vitalizmus
 - z lat. vita = život – opak dolorizmu
 - vychádzal: z filozofie senzualizmu = využívanie zmyslov
