@@ -6,4 +6,4 @@
 - slovenský vitalizmus zahrnul prvky civilizmu, ktorého zakladateľom bol Walt Whitman; sústreďuje sa na radosť z nových civilizačných vecí – budovanie, stavanie, konštruovanie
 - jazyk: hovorový, nárečové slová, voľný verš  
 
-Patri sem [[Ján Smrek]]
+Patri sem [Ján Smrek](SJL/Ján%20Smrek.md)

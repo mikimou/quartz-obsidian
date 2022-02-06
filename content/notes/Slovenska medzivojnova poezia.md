@@ -44,13 +44,13 @@ SMP závisela od:
 
 ### Generacie v SMP:
 1. **staršia** (slovenská literárna moderna = Ivan Krasko, Janko Jesenský, Vladimír Roy, Ivan Gall)
-2. **stredná** ([[Martin Rázus]], [[Stefan Krčméry]]) 
+2. **stredná** ([Martin Rázus](SJL/Martin%20Rázus.md), [Stefan Krčméry](SJL/Stefan%20Krčméry.md)) 
 3. **mladšia**:
-	1. [[Neosymbolizmus|neosymbolisti]] ([[Emil Boleslav Lukáč]])
-	2. [[Vitalizmus|vitalisti]] ([[Ján Smrek]])
-	3. [[lavicovo orientovaní = DAV]] ([[Ladislav Novomeský]])
-	4. [[Nadrealizmus|nadrealisti]] ([[Rudolf Fábry]], Štefan Žáry, Ján Brezina, Vladimír Reisel, Ján Rak, Pavol Bunčák, Júlis Lenko)
-	5. [[katolícka moderna]] ([[Rudolf Dilong]], Ján Haranta, Pavol Gašparovič-Hlbina, Ján   Motulko, Janko Silan, Karol Strmeň, Mikuláš Špric, Pavol Ušák-Oliva, Svetoslav Veigl, Gorazd Zvonický, Andrej Žárnov)
+	1. [Neosymbolizmus](SJL/Neosymbolizmus.md) ([Emil Boleslav Lukáč](SJL/Emil%20Boleslav%20Lukáč.md))
+	2. [Vitalizmus](SJL/Vitalizmus.md) ([Ján Smrek](SJL/Ján%20Smrek.md))
+	3. [lavicovo orientovaní = DAV](SJL/lavicovo%20orientovaní%20=%20DAV.md) ([Ladislav Novomeský](SJL/Ladislav%20Novomeský.md))
+	4. [Nadrealizmus](SJL/Nadrealizmus.md) ([Rudolf Fábry](SJL/Rudolf%20Fábry.md), Štefan Žáry, Ján Brezina, Vladimír Reisel, Ján Rak, Pavol Bunčák, Júlis Lenko)
+	5. [katolícka moderna](SJL/katolícka%20moderna.md) ([Rudolf Dilong](SJL/Rudolf%20Dilong.md), Ján Haranta, Pavol Gašparovič-Hlbina, Ján   Motulko, Janko Silan, Karol Strmeň, Mikuláš Špric, Pavol Ušák-Oliva, Svetoslav Veigl, Gorazd Zvonický, Andrej Žárnov)
 
 ---
 
@@ -58,5 +58,5 @@ SMP závisela od:
 - hlásia sa k tradicionalizmu
 - témy bás. zbierok: domov, rodný kraj, príroda, matka a otec, návratové témy
 
-Patri sem aj [[Masa Halamova]]
+Patri sem aj [Masa Halamova](SJL/Masa%20Halamova.md)
 
