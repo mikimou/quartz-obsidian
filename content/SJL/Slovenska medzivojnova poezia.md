@@ -1,7 +1,7 @@
 ---
-title: "Slovenska medzivojnova peozia"
+title: "Slovenska medzivojnova poezia"
 ---
-# Slovenska medzivojnova peozia
+# Slovenska medzivojnova poezia
 
 - obdobie trvania:
 	1. prameň od 1918 – 1939
@@ -61,5 +61,5 @@ title: "Slovenska medzivojnova peozia"
 - hlásia sa k tradicionalizmu
 - témy bás. zbierok: domov, rodný kraj, príroda, matka a otec, návratové témy
 
-Patri sem aj [Masa Halamova](SJL/Masa%20Halamova.md)
+Do mladsej generacie patri aj [Masa Halamova](SJL/Masa%20Halamova.md)
 
