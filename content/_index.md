@@ -1,5 +1,5 @@
 ---
-title: "Mikiho Notes"
+title: "Home"
 ---
 ### Okruhy:
 
