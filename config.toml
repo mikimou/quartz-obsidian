@@ -1,4 +1,4 @@
-baseURL = "mikimou.github.io/quartz-obsidian/"
+baseURL = "https://www.mikiho-notes.ga/"
 languageCode = "sk-SK"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
