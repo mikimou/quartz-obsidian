@@ -45,7 +45,7 @@ title: "Slovenska medzivojnova poezia"
 
 ---
 
-### Generacie v SMP:
+## Generacie v SMP:
 1. **staršia** (slovenská literárna moderna = Ivan Krasko, Janko Jesenský, Vladimír Roy, Ivan Gall)
 2. **stredná** ([Martin Razus](SJL/Martin%20Razus.md), [Stefan Krcmery](SJL/Stefan%20Krcmery.md)) 
 3. **mladšia**:
@@ -57,7 +57,7 @@ title: "Slovenska medzivojnova poezia"
 
 ---
 
-#### STREDNÁ GENERÁCIA
+### STREDNÁ GENERÁCIA
 - hlásia sa k tradicionalizmu
 - témy bás. zbierok: domov, rodný kraj, príroda, matka a otec, návratové témy
 

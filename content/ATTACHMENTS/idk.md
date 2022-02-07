@@ -3,7 +3,7 @@ title: "idk"
 ---
 `07-02-2022`
 # idk
-![Drawing 2022-02-07 17.01.18.excalidraw](ATTACHMENTS/Drawing%202022-02-07%2017.01.18.excalidraw.md)
+![Drawing 2022-02-07 17.01.18.excalidraw](ATTACHMENTS/Drawing%202022-02-07%2017.01.18.excalidraw.svg)
 
 > idkss
 > asd
@@ -37,7 +37,6 @@ lol()
 ##### h5
 ###### h6
 
-@github/support What do you think about these updates?
 
 - [ ] ss
 - [x] ss
