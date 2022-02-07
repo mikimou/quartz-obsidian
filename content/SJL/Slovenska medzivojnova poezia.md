@@ -62,4 +62,3 @@ title: "Slovenska medzivojnova poezia"
 - témy bás. zbierok: domov, rodný kraj, príroda, matka a otec, návratové témy
 
 Do mladsej generacie patri aj [Masa Halamova](SJL/Masa%20Halamova.md)
-
