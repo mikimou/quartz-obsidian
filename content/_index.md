@@ -10,4 +10,7 @@ title: "Mikiho Notes"
 - ELE
 - MAT
 - SIE
-- SJL
+- [SJL](/sjl)
+
+
+#### [ALL TAGS](/tags)
