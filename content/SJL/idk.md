@@ -3,7 +3,7 @@ title: "idk"
 ---
 `07-02-2022`
 # idk
-![Drawing 2022-02-07 17.01.18.excalidraw](ATTACHMENTS/Drawing.svg)
+![Drawing 2022-02-07 17.01.18.excalidraw](/content/ATTACHMENTS/Drawing.svg)
 
 > idkss
 > asd
